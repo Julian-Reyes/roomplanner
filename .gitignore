@@ -6,3 +6,6 @@ dist
 *.obj
 *.usdz
 samples/
+
+# Private roadmap, kept local only
+docs/FUTURE_SPEC.md
