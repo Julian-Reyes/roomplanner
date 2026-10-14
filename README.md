@@ -4,7 +4,7 @@ A room planner that tells you whether your furniture actually fits. Draw the roo
 
 *"Cabe?" is Brazilian Portuguese for "does it fit?"*
 
-**[Try it live →](LIVE_URL)**
+**[Try it live →](https://julian-reyes.github.io/roomplanner/)**
 
 ![Cabe? showing a bedroom in the 2D plan and 3D view, with the checks panel listing a blocked door and a narrow walkway](docs/screenshot.png)
 
